@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+}
+
+.carousel .card .card-body .testimonial-date {
+    color: blueviolet;
+}
+
+.carousel .carousel-inner .card-group .card .card-body .alumni-date {
+    color: brown;
+}
+
+.btn-info {
+    color: black;
+}
